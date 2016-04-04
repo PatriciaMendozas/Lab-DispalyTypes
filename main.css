@@ -1,0 +1,34 @@
+.Amarillo{
+	background:yellow;
+
+}
+#rojo{
+	background: red;
+}
+p{
+	/*Para el primer ejercicio 
+	margin: 0px;
+	padding: 10px;*/
+	
+	/*margin: 10px;
+	padding: 10px;
+	display: block;
+	width: 150px;
+	height:70px;
+	Segundo Ejercicio*/
+	
+	/*margin: 10px;
+	padding: 10px;
+	display: inline-block;
+	width: 150px;
+	height:70px;
+	Tercer ejercicio
+	*/
+	
+	/*cuarto ejercicio*/
+	margin: 5px;
+	padding: 5px;
+	display: inline-block;
+	height: 20px;
+	}
+
